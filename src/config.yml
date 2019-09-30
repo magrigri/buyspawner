@@ -1,0 +1,21 @@
+#Default Configuration of BuySpawners by Diegomekarcha for Over2Craft - PvP-Faction v2. All Rights Reserved | Over2Craft Incorporation ©.
+
+#########################################################
+                                                                                                                                                              
+# BUYSPAWNERS V1.0 - OVER2CRAFT V3.0 - PVP-FACTION V2.0 #                          
+                                                                                                                                                            
+#########################################################
+
+# BUYSPAWNERS CONFIGURATION #
+
+# Nom de l'inventaire contenant les spawners à vendre. Défaut : &eSpawners. 
+GUIName: '&eSpawners'
+
+# Prix du spawner à Golems. Défaut : 100000. Unité : unité monétaire Vault.
+golemPrice: 100000
+
+# Prix du spawner à Creepers. Défaut : 70000. Unité : unité monétaire Vault.
+creeperPrice: 70000
+
+# Devise monétaire du serveur. Défaut : Overs.
+currency: 'Overs'

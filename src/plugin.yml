@@ -1,0 +1,9 @@
+name: BuySpawners
+version: 1.0
+api-version: 1.14
+author: Diegomekarcha
+website: https://www.over2craft.com
+main: fr.diegomekarcha.buyspawners.BuySpawners
+commands:
+  buyspawner:
+    description: Permet d'acheter des spawners personnalises.
